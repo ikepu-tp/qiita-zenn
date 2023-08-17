@@ -1,0 +1,14 @@
+version: "3"
+services:
+  qiita:
+    container_name: qiita
+    build:
+      context: .
+      dockerfile: Dockerfile
+    tty: true
+    ports:
+      - 8888:8888
+    volumes:
+      - ./:/qiita
+    environment:
+      TZ: Asia/Tokyo
