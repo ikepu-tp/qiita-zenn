@@ -1,10 +1,10 @@
 ---
 title: Laravel用アクティビティログライブラリを作りました！！
 tags:
-  - ''
+  - Laravel
 private: false
-updated_at: ''
-id: null
+updated_at: '2023-08-24T22:16:19+09:00'
+id: 47228f97d056fe05fbd9
 organization_url_name: null
 slide: false
 ---
