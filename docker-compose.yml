@@ -4,11 +4,23 @@ services:
     container_name: qiita
     build:
       context: .
-      dockerfile: Dockerfile
+      dockerfile: ./qiita/Dockerfile
     tty: true
     ports:
       - 8888:8888
     volumes:
-      - ./:/qiita
+      - ./qiita:/qiita
+    environment:
+      TZ: Asia/Tokyo
+  zenn:
+    container_name: zenn
+    build:
+      context: .
+      dockerfile: ./zenn/Dockerfile
+    tty: true
+    ports:
+      - 9999:8000
+    volumes:
+      - ./:/zenn
     environment:
       TZ: Asia/Tokyo
