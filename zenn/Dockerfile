@@ -1,5 +1,6 @@
 FROM node:20-alpine3.17
 
-WORKDIR /zenn
+WORKDIR /public
 
 EXPOSE 8000
+EXPOSE 8888

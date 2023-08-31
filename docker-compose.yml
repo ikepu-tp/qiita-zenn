@@ -1,26 +1,16 @@
 version: "3"
 services:
-  qiita:
-    container_name: qiita
-    build:
-      context: .
-      dockerfile: ./qiita/Dockerfile
-    tty: true
-    ports:
-      - 8888:8888
-    volumes:
-      - ./qiita:/qiita
-    environment:
-      TZ: Asia/Tokyo
-  zenn:
-    container_name: zenn
+  editor:
+    container_name: editor
     build:
       context: .
       dockerfile: ./zenn/Dockerfile
-    tty: true
     ports:
       - 9999:8000
+      - 8888:8888
+    tty: true
     volumes:
-      - ./:/zenn
+      - ./:/public
     environment:
       TZ: Asia/Tokyo
+    command: npx zenn
