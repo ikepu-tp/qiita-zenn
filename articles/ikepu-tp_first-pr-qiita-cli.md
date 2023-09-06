@@ -86,3 +86,7 @@ OSSのコード修正している方は異次元の方だろうと思ってい�
 `v1.2.0`として公開していただけそうです！
 
 https://github.com/increments/qiita-cli/pull/64
+
+`v1.2.0`として公開していただけました！
+
+https://github.com/increments/qiita-cli/releases/tag/v1.2.0
