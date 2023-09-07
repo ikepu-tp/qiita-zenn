@@ -1,12 +1,12 @@
 ---
 title: Qiita CLIでホストを設定できるようにした話
 tags:
+  - GitHub
   - Docker
-  - Qiita-CLI
-  - Github
+  - qiita-cli
 private: false
-updated_at: ''
-id: null
+updated_at: '2023-09-07T13:08:43+09:00'
+id: df4ebf43edd200e4597d
 organization_url_name: null
 slide: false
 ---
