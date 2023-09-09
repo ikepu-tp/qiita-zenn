@@ -1,14 +1,14 @@
 ---
 title: Laravel初学者へのすすめ#1
 tags:
-  - 'laravel'
-  - '初学者'
-  - 'git'
-  - 'GitHub'
-  - 'Docker'
+  - Git
+  - GitHub
+  - Laravel
+  - Docker
+  - 初学者
 private: true
-updated_at: ''
-id: null
+updated_at: '2023-09-09T15:30:12+09:00'
+id: f950cadf0dac7331b4b5
 organization_url_name: null
 slide: false
 ---
