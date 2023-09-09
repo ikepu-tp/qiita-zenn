@@ -1,5 +1,5 @@
 ---
-title: ブランチルール
+title: これが自分のブランチルールだ！
 tags:
   - 'git'
   - 'github'
