@@ -1,7 +1,11 @@
 ---
 title: Laravel初学者へのすすめ#1
 tags:
-  - ''
+  - 'laravel'
+  - '初学者'
+  - 'git'
+  - 'GitHub'
+  - 'Docker'
 private: true
 updated_at: ''
 id: null
@@ -80,8 +84,8 @@ This repository is described about *アカウント名*.
 
 ## About me
 
-- University student in Technology faculty
-- Laravel Engineer
+* University student in Technology faculty
+* Laravel Engineer
 ```
 
 ## 6. GitHubの実用的運用
@@ -131,8 +135,8 @@ This repository is described about *アカウント名*.
 
 ## About me
 
-- University student in Technology faculty
-- Laravel Engineer
+* University student in Technology faculty
+* Laravel Engineer
 
 + ## Copyright
 +
