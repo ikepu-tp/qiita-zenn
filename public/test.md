@@ -1,7 +1,7 @@
 ---
 title: test
 tags:
-  - ''
+  - 'laravel'
 private: true
 updated_at: ''
 id: null
