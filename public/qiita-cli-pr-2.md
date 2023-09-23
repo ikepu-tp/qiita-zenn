@@ -1,11 +1,11 @@
 ---
 title: Qiita CLIで公開しない設定を追加した話
 tags:
+  - GitHub
   - qiita-cli
-  - github
 private: false
-updated_at: ''
-id: null
+updated_at: '2023-09-23T14:11:48+09:00'
+id: 5b841734e2a7455d3f2f
 organization_url_name: null
 slide: false
 ignorePublish: false
