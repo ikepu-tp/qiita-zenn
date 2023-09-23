@@ -92,31 +92,33 @@ yarn add -D typescript vite prettier
 
 ```json:tsconfig.json
 {
-  "compilerOptions": {
-    "noImplicitReturns": true,
-    "noUnusedLocals": true,
-    "noUnusedParameters": true,
-    "baseUrl": ".",
-    "target": "es6",
-    "lib": ["dom", "dom.iterable", "esnext"],
-    "allowJs": true,
-    "skipLibCheck": true,
-    "esModuleInterop": true,
-    "allowSyntheticDefaultImports": true,
-    "strict": true,
-    "forceConsistentCasingInFileNames": true,
-    "noFallthroughCasesInSwitch": true,
-    "module": "esnext",
-    "moduleResolution": "node",
-    "resolveJsonModule": true,
-    "isolatedModules": true,
-    "emitDeclarationOnly": true,
-    "declaration": true,
-    "declarationDir": "./types"
-  },
-  "include": [],
-  "exclude": [],
-  "references": []
+	"compilerOptions": {
+		"noImplicitReturns": true,
+		"noUnusedLocals": true,
+		"noUnusedParameters": true,
+		"noImplicitAny": true,
+		"target": "es6",
+		"allowJs": true,
+		"skipLibCheck": true,
+		"esModuleInterop": true,
+		"allowSyntheticDefaultImports": true,
+		"strict": true,
+		"strictNullChecks": true,
+		"forceConsistentCasingInFileNames": true,
+		"noFallthroughCasesInSwitch": true,
+		"module": "esnext",
+		"moduleResolution": "node",
+		"resolveJsonModule": true,
+		"isolatedModules": true,
+		"emitDeclarationOnly": true,
+		"declaration": true,
+		"declarationDir": "./types",
+		"outDir": "./dist",
+		"rootDir": "./src"
+	},
+	"include": ["src"],
+	"exclude": [],
+	"references": []
 }
 ```
 
