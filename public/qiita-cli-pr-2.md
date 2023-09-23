@@ -8,7 +8,7 @@ updated_at: ''
 id: null
 organization_url_name: null
 slide: false
-ignorePublish: true
+ignorePublish: false
 ---
 
 こんにちは。
@@ -68,3 +68,6 @@ https://github.com/increments/qiita-cli/pull/65
 `v1.3.0`として公開していただけました！
 
 https://github.com/increments/qiita-cli/releases/tag/v1.3.0
+
+> 試しに本記事も`ignorePublish: true`にして，Githubにプッシュしてみました。笑
+> きちんと投稿されていなかったです！
