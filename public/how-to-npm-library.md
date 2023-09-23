@@ -114,7 +114,7 @@ yarn add -D typescript vite prettier
     "declaration": true,
     "declarationDir": "./types"
   },
-  "include": ["src"],
+  "include": [],
   "exclude": [],
   "references": []
 }
@@ -145,11 +145,6 @@ export default defineConfig({
       }
     }
   },
-  resolve: {
-    alias: {
-      "src": "/src"
-    }
-  }
 });
 ```
 
