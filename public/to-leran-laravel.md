@@ -7,10 +7,11 @@ tags:
   - Docker
   - 初学者
 private: false
-updated_at: '2023-09-10T20:05:32+09:00'
+updated_at: '2023-09-12T13:38:52+09:00'
 id: f950cadf0dac7331b4b5
 organization_url_name: null
 slide: false
+ignorePublish: false
 ---
 
 ## はじめに
@@ -173,3 +174,9 @@ This repository is described about *アカウント名*.
 第1弾ではLaravelの開発環境を整えることやLaravelに限らず開発するのに必要不可欠な事についてまとめました。
 ここで説明したことは開発するのに最低限知っておいてほしいことだと思うので使いながら慣れてください！
 ご覧いただきありがとうございました！
+
+=====追記
+
+次の回はこちらから
+
+https://qiita.com/ikepu-tp/items/979dbe434790512ea984
