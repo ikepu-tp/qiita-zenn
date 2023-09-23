@@ -7,7 +7,7 @@ tags:
   - Npmjs
   - vite
 private: false
-updated_at: '2023-09-24T06:27:04+09:00'
+updated_at: '2023-09-24T07:22:09+09:00'
 id: 90e32aac354e0a5b0b6e
 organization_url_name: null
 slide: false
