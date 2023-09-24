@@ -1,5 +1,5 @@
 ---
-title: GitHubアクションのワークフローを使ってNPMライブラリを公開する方法
+title: GitHubアクションのワークフローを使ってリリースを作成する方法
 tags:
   - GitHub
 private: false
