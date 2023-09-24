@@ -145,7 +145,8 @@ export default defineConfig({
       output: {
         sourcemap: true
       }
-    }
+    },
+    minify: false
   },
 });
 ```
