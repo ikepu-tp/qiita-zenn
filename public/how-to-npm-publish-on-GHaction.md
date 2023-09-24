@@ -62,7 +62,3 @@ jobs:
           NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
 
 ```
-
-## 参考
-
-https://zenn.dev/kshida/articles/auto-generate-release-note-with-calver
