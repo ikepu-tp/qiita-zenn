@@ -1,10 +1,10 @@
 ---
 title: GitHubアクションのワークフローを使ってNPMライブラリを公開する方法
 tags:
-  - github
+  - GitHub
 private: false
-updated_at: null
-id: null
+updated_at: '2023-09-24T12:01:54+09:00'
+id: 2841e1dbbc8bf363a8fd
 organization_url_name: null
 slide: false
 ignorePublish: false
