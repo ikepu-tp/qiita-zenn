@@ -2,11 +2,11 @@
 title: 簡単なレジシステムを開発してみた
 tags:
   - Laravel
-  - React.js
   - SSE
+  - React
 private: false
-updated_at: null
-id: null
+updated_at: '2023-10-11T10:03:59+09:00'
+id: 6fd3e09000a3a6b8ac0b
 organization_url_name: null
 slide: false
 ignorePublish: false
