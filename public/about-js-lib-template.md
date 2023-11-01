@@ -1,14 +1,14 @@
 ---
 title: Reactライブラリ用のテンプレートを作成してみた
 tags:
-  - Storybook
+  - template
+  - npm
+  - library
   - React
-  - NPM
-  - Library
-  - Template
+  - storybook
 private: false
-updated_at: null
-id: null
+updated_at: '2023-11-01T23:39:45+09:00'
+id: 095c93ebfc4941c26894
 organization_url_name: null
 slide: false
 ignorePublish: false
