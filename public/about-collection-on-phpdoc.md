@@ -1,12 +1,12 @@
 ---
 title: Laravelの`Collection`におけるPhpDocの設定
 tags:
-  - "Laravel"
-  - phpdoc
-  - php
+  - PHP
+  - Laravel
+  - PHPDoc
 private: false
-updated_at: null
-id: null
+updated_at: '2023-11-13T17:51:47+09:00'
+id: 25f80de0e272789133d0
 organization_url_name: null
 slide: false
 ignorePublish: false
