@@ -1,5 +1,5 @@
 ---
-title: Laravelの`Collection`におけるPhpDocの設定
+title: Laravelの`Collection`におけるPHPDocの設定
 tags:
   - PHP
   - Laravel
@@ -14,17 +14,16 @@ ignorePublish: false
 
 こんにちは，ご覧いただきありがとうございます。
 
-
 ## はじめに
 
-Laravelをお使いの皆さんはプログラミングする際にPhpdocを使われていますか？
+Laravelをお使いの皆さんはプログラミングする際にPHPDocを使われていますか？
 私はいつも使っているのですが，`Collection`の際の使い方がいまいちわかっておりませんでした。
 ググってもほしい情報はヒットしませんでした（キーワードの問題？）
 
 今回，プログラミング中にたまたま書き方がわかったので共有します。
 といってもシンプルに`array`と同様でした。笑
 
-## `Collection`におけるPhpdoc
+## `Collection`におけるPHPDoc
 
 ```php
 /** @var \Illuminate\Database\Eloquent\Collection<, \App\Models\Model> */
