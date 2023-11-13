@@ -5,7 +5,7 @@ tags:
   - Laravel
   - PHPDoc
 private: false
-updated_at: '2023-11-13T17:51:47+09:00'
+updated_at: '2023-11-13T17:53:02+09:00'
 id: 25f80de0e272789133d0
 organization_url_name: null
 slide: false
