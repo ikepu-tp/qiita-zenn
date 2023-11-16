@@ -1,13 +1,13 @@
 ---
-title: Laravelの`storage:link`のシンボリックリンクがうまくできなかった話
+title: 'Laravelの`storage:link`のシンボリックリンクがうまくできなかった話'
 tags:
   - Laravel
   - Docker
-  - sail
-  - wsl2
+  - WSL2
+  - Sail
 private: false
-updated_at: null
-id: null
+updated_at: '2023-11-16T20:17:01+09:00'
+id: 11a50078c15eaa880e26
 organization_url_name: null
 slide: false
 ignorePublish: false
