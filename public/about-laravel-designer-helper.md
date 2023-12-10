@@ -1,11 +1,11 @@
 ---
-title: "Laravelで動く設計支援ライブラリを作ってみた"
+title: Laravelで動く設計支援ライブラリを作ってみた
 tags:
-  - "Laravel"
-  - composer
+  - Composer
+  - Laravel
 private: false
-updated_at: null
-id: null
+updated_at: '2023-12-10T12:51:21+09:00'
+id: 09b9d1ca046a64c9a7d6
 organization_url_name: null
 slide: false
 ignorePublish: false
