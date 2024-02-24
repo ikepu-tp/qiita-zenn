@@ -2,7 +2,7 @@
 title: "Laravel用ファイルライブラリの作成"
 tags:
   - "Laravel"
-  - "File Library"
+  - "FileLibrary"
 private: false
 updated_at: null
 id: null
