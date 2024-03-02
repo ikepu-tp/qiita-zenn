@@ -1,13 +1,13 @@
 ---
-title: "Laraveファイルライブラリをアップデートしました！！"
+title: Laraveファイルライブラリをアップデートしました！！
 tags:
-  - "Laravel"
-  - "OSS"
-  - "Composer"
-  - "Library"
+  - Composer
+  - Laravel
+  - library
+  - OSS
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-03-02T14:25:21+09:00'
+id: 2d01592aa7b0fa583d0c
 organization_url_name: null
 slide: false
 ignorePublish: false
