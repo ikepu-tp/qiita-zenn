@@ -1,11 +1,11 @@
 ---
-title: "GASでスプレッドシートをSQL風に操作したい！！"
+title: GASでスプレッドシートをSQL風に操作したい！！
 tags:
-  - "GAS"
-  - "SpreadSheet"
+  - GAS
+  - spreadsheet
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-09-23T19:53:42+09:00'
+id: bc7fee3593a6479d0af6
 organization_url_name: null
 slide: false
 ignorePublish: false
