@@ -1,13 +1,13 @@
 ---
 title: 新しい数学テストの作り方
 tags:
-  - 'CloudLaTeX'
-  - 'Cline'
-  - 'VSCode'
-  - 'LaTeX'
+  - LaTeX
+  - VSCode
+  - CloudLaTeX
+  - cline
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-02-14T07:28:34+09:00'
+id: f2c11edc6babe9c2dd52
 organization_url_name: null
 slide: false
 ignorePublish: false
